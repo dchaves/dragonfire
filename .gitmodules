@@ -1,0 +1,3 @@
+[submodule "arduino-cli-esp32"]
+	path = arduino-cli-esp32
+	url = ./arduino-cli-esp32/
